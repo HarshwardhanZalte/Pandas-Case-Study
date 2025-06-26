@@ -16,13 +16,4 @@ This case study includes:
 - ✅ Time series handling (if applicable)
 - ✅ Data visualization using `matplotlib`/`seaborn`
 
----
 
-## 🧰 Tech Stack
-
-- **Python 3.8+**
-- **Pandas**
-- **NumPy**
-- **Matplotlib**
-- **Seaborn**
-- (Optional: Jupyter Notebook, Scikit-learn)
